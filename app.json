@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.phtoan.Driver"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "scheme": "phamhaitoan",
+    "extra": {
+      "eas": {
+        "projectId": "43777bef-3800-45b5-9328-49934acf52e8"
+      }
     }
   }
 }
